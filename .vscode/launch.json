@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ArrayDemo",
+            "request": "launch",
+            "mainClass": "ArrayDemo",
+            "projectName": "VsCode_a662dd6a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AnimalDemo",
             "request": "launch",
             "mainClass": "AnimalDemo",
